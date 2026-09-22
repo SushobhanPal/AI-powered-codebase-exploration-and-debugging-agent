@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+langchain
+langchain_ollama
+langchain_huggingface
+langchain_qdrant
+qdrant-client
+sentence-transformers
+python-dotenv
+requests
+langchain-text-splitters
